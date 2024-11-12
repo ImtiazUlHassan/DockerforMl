@@ -1,7 +1,7 @@
-# DockerforMl
-This tutorial demonstrates using Docker for machine learning with a simple Apple and Tomatoes dataset. It compares training a model with and without Docker, showcasing how containerization simplifies setup, ensures consistency, and improves reproducibility. The guide covers data preprocessing, model training, and evaluation for both approaches.
+# Docker for Machine Learning 
+This tutorial demonstrates using Docker for machine learning with a simple Apple and Tomatoes dataset. It compares training a model with and without Docker, showcasing how containerization simplifies setup, ensures consistency, and improves reproducibility. The guide covers both approaches' data preprocessing, model training, and evaluation.
 
-# Dataset
+## Dataset
 The dataset used in this tutorial is the Apple and Tomatoes Image Classification dataset, which can be accessed from Kaggle:
 
 Apple or Tomatoes Image Classification Dataset
